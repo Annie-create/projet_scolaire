@@ -1,0 +1,25 @@
+
+/* inscription.css | http://localhost/project/inscription.css */
+
+img {
+  /* vertical-align: middle; */
+  vertical-align: left;
+  padding-right: ;
+  width: 300px;
+  margin-left: 500px;
+}
+
+.img ::after, ::before {
+  border-radius: 1rem;
+}
+
+/* ecrire_personalise.css | http://localhost/project/ecrire_personalise.css */
+
+img {
+  /* width: 300px; */
+  /* margin-left: 500px; */
+  width: 200px;
+  margin-left: 730px;
+  position: absolute;
+  margin-top: 200px;
+}

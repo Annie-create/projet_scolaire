@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+html{background-color:burlywood}
+#entete{height:15%}
+#contenu{height:70%;}
+#menu{float:left;
+	height:100%;
+	width:200px;
+	background-color:peru;
+	padding: 10px;}
+#crops{margin-left:300px;
+	   padding:10px;}
+.color{background-color:lightskyblue}
+.table{margin: auto;}

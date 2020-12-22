@@ -1,0 +1,83 @@
+
+/* inscription.css | http://localhost/project/inscription.css */
+
+.bg-dark {
+  /* background-color: #343a40 !important; */
+  background-color: #dd7e2a !important;
+}
+
+.jumbotron {
+  /* background-color: #e9ecef; */
+  background-color: #ffffff17;
+}
+
+.btn-primary:hover {
+  /* background-color: #0069d9; */
+  /* border-color: #0062cc; */
+  background-color: #019b77;
+  border-color: #fff;
+}
+
+.btn-group-lg > .btn, .btn-lg {
+  background-color: #019b77;
+}
+
+/* inscription.css | http://localhost/project/inscription.css */
+
+.btn-primary {
+  /* border-color: #007bff; */
+  border-color: #3fb32f;
+}
+
+
+
+/* inscription.css | http://localhost/project/inscription.css */
+
+.btn-group-lg > .btn, .btn-lg {
+  /* border-radius: .3rem; */
+  /* pmargin-left\): 1; */
+  /* pmargin-left\): 100; */
+  /* pmargin-left\): 100p; */
+  /* pmargin-left\): 100px; */
+  border-radius: 0.8rem;
+
+  margin-left: 8px;
+}
+
+/* inscription.css | http://localhost/project/inscription.css */
+
+.btn-group-lg > .btn, .btn-lg {
+  /* font-size: 1.25rem; */
+  font-size: 0.8rem;
+}
+
+/* Élément | http://localhost/project/page_accueil.php */
+
+div.container:nth-child(1) > p:nth-child(3) {
+  line-height: 32px;
+  letter-spacing: -0.029em;
+  font-size: 16px;
+}
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  padding-top:100px;
+
+}
+
+
+/* css_commun.css | http://localhost/project/css_commun.css */
+
+.jumbotron {
+  /* background-color: #ffffff17; */
+  background-color: #b63f3f17;
+}
+
+/* inscription.css | http://localhost/project/inscription.css */
+
+.text-center {
+  /* text-align: center !important; */
+  text-align: left !important;
+}
